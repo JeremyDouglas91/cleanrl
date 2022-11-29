@@ -30,8 +30,7 @@ parameters:
       - random
       - alternate
   learning-rate:
-    value:
-      - 2.5e-4
+    value: 2.5e-4
   anneal-lr:
     values:
       - true
