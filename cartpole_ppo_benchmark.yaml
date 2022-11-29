@@ -58,6 +58,3 @@ parameters:
       - 0.01
       - 0.005
       - 0.0
-  cuda:
-    value:
-      - true
